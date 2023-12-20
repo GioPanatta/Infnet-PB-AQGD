@@ -13,8 +13,8 @@ def load_model(file_path):
 
 def main():
     # Carregando os dados
-    data = load_data('/work/data.csv')
-    modified_data = load_data('/work/modified_data.csv')
+    data = load_data('data.csv')
+    modified_data = load_data('modified_data.csv')
     model = load_model('linear_regression_model.joblib')
 
     st.title("Dashboard de Visualização de Dados e Modelagem com Regressão Linear para a Geely Auto")
