@@ -28,7 +28,3 @@ Visualize o Dashboard no Streamlit [aqui](https://infnet-pb-aqgd-cwtf9u5gvhry3pa
 - Streamlit
 
 
-- Python
-- Jupyter Notebook
-- Pandas, Seaborn, Matplotlib
-- Streamlit
